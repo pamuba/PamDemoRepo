@@ -1,0 +1,9 @@
+{
+	"name": "ADFPamDemo",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c17a5a2a-ff3f-4e73-8454-fab88037159c",
+		"tenantId": "cc6b2eea-c864-4839-85f5-94736facc3be"
+	}
+}
